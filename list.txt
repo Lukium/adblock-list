@@ -15,6 +15,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 tools.mouseflow.com
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 app.getsentry.com
+0.0.0.0 *.browser.sentry-cdn.com
+0.0.0.0 *.app.getsentry.com
 0.0.0.0 extmaps-api.yandex.net
 0.0.0.0 adfstat.yandex.ru
 0.0.0.0 metrika.yandex.ru
