@@ -1,0 +1,28 @@
+# By Lukium
+
+# BEGIN HEADER
+127.0.0.1       localhost
+255.255.255.255 broadcasthost
+::1             localhost
+::1             ip6-localhost ip6-loopback
+fe00::0         ip6-localnet
+ff00::0         ip6-mcastprefix
+ff02::1         ip6-allnodes
+ff02::2         ip6-allrouters
+ff02::3         ip6-allhosts
+# END HEADER
+
+0.0.0.0 tools.mouseflow.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 app.getsentry.com
+0.0.0.0 extmaps-api.yandex.net
+0.0.0.0 adfstat.yandex.ru
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 offerwall.yandex.net
+0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
+0.0.0.0 ck.ads.oppomobile.com
+0.0.0.0 click.oneplus.cn
+0.0.0.0 logservice.hicloud.com
+0.0.0.0 logservice1.hicloud.com
+0.0.0.0 advertising.apple.com
