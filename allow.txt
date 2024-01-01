@@ -1,3 +1,2 @@
 saa.paramountplus.com
-mobile-collector.newrelic.com
 imasdk.googleapis.com
