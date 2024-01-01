@@ -2,3 +2,4 @@ saa.paramountplus.com
 cbsinteractive.data.adobedc.net
 mobile-collector.newrelic.com
 api2.branch.io
+imasdk.googleapis.com
