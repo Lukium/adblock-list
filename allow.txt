@@ -1,2 +1,3 @@
 imasdk.googleapis.com #Required for Paramount+ to load videos
-tags.tiqcdn.com ##Required for Paramount+ for storing timestamps
+tags.tiqcdn.com #Required for Paramount+ for storing timestamps
+www.paypalobjects.com #Required for Paypal payments
