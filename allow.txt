@@ -2,3 +2,4 @@ imasdk.googleapis.com #Required for Paramount+ to load videos
 tags.tiqcdn.com #Required for Paramount+ for storing timestamps
 www.paypalobjects.com #Required for Paypal payments
 vortex.hulu.com #Required for Hulu search
+auth.split.io #familysearch.org
