@@ -44,6 +44,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 analytics.pinterest.com
 
 0.0.0.0 sessions.bugsnag.com
+0.0.0.0 notify.bugsnag.com
 0.0.0.0 api.bugsnag.com
 0.0.0.0 app.bugsnag.com
 
