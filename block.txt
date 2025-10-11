@@ -32,3 +32,20 @@ ff02::3         ip6-allhosts
 0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 analytics.google.com
 0.0.0.0 afs.googlesyndication.com
+
+0.0.0.0 business-api.tiktok.com
+
+0.0.0.0 ads-api.twitter.com
+
+0.0.0.0 ads.pinterest.com
+0.0.0.0 analytics.pinterest.com
+
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+
+0.0.0.0 static.media.net
+0.0.0.0 media.net
+
+0.0.0.0 gemini.yahoo.com
+0.0.0.0 adtech.yahooinc.com
