@@ -33,6 +33,9 @@ ff02::3         ip6-allhosts
 0.0.0.0 analytics.google.com
 0.0.0.0 afs.googlesyndication.com
 
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 ads-sg.tiktok.com
+0.0.0.0 ads.tiktok.com
 0.0.0.0 business-api.tiktok.com
 
 0.0.0.0 ads-api.twitter.com
@@ -47,5 +50,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 static.media.net
 0.0.0.0 media.net
 
+0.0.0.0 ads.yahoo.com
+0.0.0.0 udcm.yahoo.com
+0.0.0.0 log.fc.yahoo.com
 0.0.0.0 gemini.yahoo.com
 0.0.0.0 adtech.yahooinc.com
