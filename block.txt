@@ -12,11 +12,51 @@ ff02::2         ip6-allrouters
 ff02::3         ip6-allhosts
 # END HEADER
 
+#mouseflow
+0.0.0.0 mouseflow.com
+0.0.0.0 cdn.mouseflow.com
+0.0.0.0 o2.mouseflow.com
+0.0.0.0 gtm.mouseflow.com
+0.0.0.0 api.mouseflow.com
 0.0.0.0 tools.mouseflow.com
+0.0.0.0 cdn-test.mouseflow.com
+
+#hotjar
+0.0.0.0 adm.hotjar.com
+0.0.0.0 identify.hotjar.com
+0.0.0.0 insights.hotjar.com
+0.0.0.0 script.hotjar.com
+0.0.0.0 surveys.hotjar.com
+0.0.0.0 careers.hotjar.com
+0.0.0.0 events.hotjar.io
+
+#freshworks
+0.0.0.0 freshmarketer.com
+0.0.0.0 claritybt.freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
+
+#Luckyorange
+0.0.0.0 luckyorange.com
+0.0.0.0 api.luckyorange.com
+0.0.0.0 realtime.luckyorange.com
+0.0.0.0 cdn.luckyorange.com
+0.0.0.0 w1.luckyorange.com
+0.0.0.0 upload.luckyorange.net
+0.0.0.0 cs.luckyorange.net
+0.0.0.0 settings.luckyorange.net
+
+#Sentry
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 app.getsentry.com
 0.0.0.0 *.browser.sentry-cdn.com
 0.0.0.0 *.app.getsentry.com
+
+#Bugsnag
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+
 0.0.0.0 extmaps-api.yandex.net
 0.0.0.0 adfstat.yandex.ru
 0.0.0.0 appmetrica.yandex.ru
