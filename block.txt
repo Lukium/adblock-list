@@ -14,6 +14,11 @@ ff02::3         ip6-allhosts
 
 # Ads
 
+## Media.net
+0.0.0.0 static.media.net
+0.0.0.0 media.net
+0.0.0.0 adservetx.media.net
+
 ## Adcolony
 0.0.0.0 ads30.adcolony.com
 0.0.0.0 adc3-launch.adcolony.com
@@ -76,7 +81,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 an.facebook.com
 
 ## Twitter
-static.ads-twitter.com
+0.0.0.0 static.ads-twitter.com
 0.0.0.0 ads-api.twitter.com
 
 ## LinkedIn
@@ -149,9 +154,6 @@ static.ads-twitter.com
 0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 analytics.google.com
 0.0.0.0 afs.googlesyndication.com
-
-0.0.0.0 static.media.net
-0.0.0.0 media.net
 
 0.0.0.0 ads.yahoo.com
 0.0.0.0 udcm.yahoo.com
