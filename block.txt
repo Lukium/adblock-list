@@ -12,7 +12,17 @@ ff02::2         ip6-allrouters
 ff02::3         ip6-allhosts
 # END HEADER
 
-#mouseflow
+# Ads
+
+## Adcolony
+0.0.0.0 ads30.adcolony.com
+0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 events3alt.adcolony.com
+0.0.0.0 wd.adcolony.com
+
+# Analytics
+
+## Mouseflow
 0.0.0.0 mouseflow.com
 0.0.0.0 cdn.mouseflow.com
 0.0.0.0 o2.mouseflow.com
@@ -21,7 +31,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 tools.mouseflow.com
 0.0.0.0 cdn-test.mouseflow.com
 
-#hotjar
+## hotjar
 0.0.0.0 adm.hotjar.com
 0.0.0.0 identify.hotjar.com
 0.0.0.0 insights.hotjar.com
@@ -30,12 +40,12 @@ ff02::3         ip6-allhosts
 0.0.0.0 careers.hotjar.com
 0.0.0.0 events.hotjar.io
 
-#freshworks
+## Freshworks
 0.0.0.0 freshmarketer.com
 0.0.0.0 claritybt.freshmarketer.com
 0.0.0.0 fwtracks.freshmarketer.com
 
-#Luckyorange
+## Luckyorange
 0.0.0.0 luckyorange.com
 0.0.0.0 api.luckyorange.com
 0.0.0.0 realtime.luckyorange.com
@@ -45,23 +55,90 @@ ff02::3         ip6-allhosts
 0.0.0.0 cs.luckyorange.net
 0.0.0.0 settings.luckyorange.net
 
-#Sentry
+# Error Trackers
+
+## Sentry
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 app.getsentry.com
 0.0.0.0 *.browser.sentry-cdn.com
 0.0.0.0 *.app.getsentry.com
 
-#Bugsnag
+## Bugsnag
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 api.bugsnag.com
 0.0.0.0 app.bugsnag.com
 
+# Social Trackers
+
+## Facebook
+0.0.0.0 pixel.facebook.com
+0.0.0.0 an.facebook.com
+
+## Twitter
+static.ads-twitter.com
+0.0.0.0 ads-api.twitter.com
+
+## LinkedIn
+0.0.0.0 ads.linkedin.com
+0.0.0.0 analytics.pointdrive.linkedin.com
+
+## Pinterest
+0.0.0.0 ads.pinterest.com
+0.0.0.0 log.pinterest.com
+0.0.0.0 analytics.pinterest.com
+0.0.0.0 trk.pinterest.com
+
+## Reddit
+0.0.0.0 events.reddit.com
+0.0.0.0 events.redditmedia.com
+
+## YouTube
+0.0.0.0 ads.youtube.com
+
+## TikTok
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 analytics.tiktok.com
+0.0.0.0 ads-sg.tiktok.com
+0.0.0.0 analytics-sg.tiktok.com
+0.0.0.0 business-api.tiktok.com
+0.0.0.0 ads.tiktok.com
+0.0.0.0 log.byteoversea.com
+
+# Mix
+
+## Yandex
 0.0.0.0 extmaps-api.yandex.net
-0.0.0.0 adfstat.yandex.ru
 0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 adfstat.yandex.ru
 0.0.0.0 metrika.yandex.ru
 0.0.0.0 offerwall.yandex.net
+0.0.0.0 adfox.yandex.ru
+
+## Unity
+0.0.0.0 auction.unityads.unity3d.com
+0.0.0.0 webview.unityads.unity3d.com
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 adserver.unityads.unity3d.com
+
+# OEMs
+
+## Realme
+0.0.0.0 iot-eu-logser.realme.com
+0.0.0.0 iot-logser.realme.com
+0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
+
+## Apple
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 metrics.icloud.com
+0.0.0.0 metrics.mzstatic.com
+0.0.0.0 api-adservices.apple.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 notes-analytics-events.apple.com
+
+
 0.0.0.0 bdapi-ads.realmemobile.com
 0.0.0.0 bdapi-in-ads.realmemobile.com
 0.0.0.0 ck.ads.oppomobile.com
@@ -72,21 +149,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 analytics.google.com
 0.0.0.0 afs.googlesyndication.com
-
-0.0.0.0 ads-api.tiktok.com
-0.0.0.0 ads-sg.tiktok.com
-0.0.0.0 ads.tiktok.com
-0.0.0.0 business-api.tiktok.com
-
-0.0.0.0 ads-api.twitter.com
-
-0.0.0.0 ads.pinterest.com
-0.0.0.0 analytics.pinterest.com
-
-0.0.0.0 sessions.bugsnag.com
-0.0.0.0 notify.bugsnag.com
-0.0.0.0 api.bugsnag.com
-0.0.0.0 app.bugsnag.com
 
 0.0.0.0 static.media.net
 0.0.0.0 media.net
