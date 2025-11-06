@@ -4,3 +4,5 @@ www.paypalobjects.com #Required for Paypal payments
 vortex.hulu.com #Required for Hulu search
 auth.split.io #familysearch.org
 sdk.split.io #familysearch.org
+
+statsig.anthropic.com
