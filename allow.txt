@@ -6,3 +6,4 @@ auth.split.io #familysearch.org
 sdk.split.io #familysearch.org
 
 statsig.anthropic.com
+analytics.google.com
